@@ -21,7 +21,7 @@ module.exports = {
     rules: [
       {
         test: /locale\/messages\.[a-z\-_]+\.xml$/,
-        use: 'xml-raw-loader'
+        use: 'xml-minify-loader'
       }
     ]
   }
