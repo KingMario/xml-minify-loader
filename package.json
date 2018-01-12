@@ -1,0 +1,14 @@
+{
+	"name": "xml-minify-loader",
+	"version": "0.0.1",
+	"author": "KingMario",
+	"description": "xml minify loader module for webpack",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:kingmario/xml-minify-loader.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"pretty-data": "^0.40.0"
+	}
+}
